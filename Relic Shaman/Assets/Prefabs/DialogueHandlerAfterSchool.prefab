@@ -1,0 +1,295 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3934637882282018200
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2214084518468361354, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: m_Size.x
+      value: 20.354286
+      objectReference: {fileID: 0}
+    - target: {fileID: 2214084518468361354, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: m_Size.y
+      value: 18.054256
+      objectReference: {fileID: 0}
+    - target: {fileID: 2214084518468361354, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: m_Offset.x
+      value: 1.0251198
+      objectReference: {fileID: 0}
+    - target: {fileID: 2214084518468361354, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: m_Offset.y
+      value: 3.6322231
+      objectReference: {fileID: 0}
+    - target: {fileID: 4290662126589522069, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4290662126589522069, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4290662126589522069, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4290662126589522069, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4290662126589522069, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4290662126589522069, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4290662126589522069, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4290662126589522069, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4290662126589522069, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4290662126589522069, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326395902955926241, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: speaker.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326395902955926241, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: portrait.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326395902955926241, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: speaker.Array.data[1]
+      value: Mbah Mijan
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326395902955926241, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: speaker.Array.data[3]
+      value: Mbah Mijan
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326395902955926241, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: portrait.Array.data[0]
+      value: 
+      objectReference: {fileID: 21300000, guid: 59a2260e5d1057249a10b4251929cba7, type: 3}
+    - target: {fileID: 4326395902955926241, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: portrait.Array.data[1]
+      value: 
+      objectReference: {fileID: 21300000, guid: 42436df419cdf7b49af4545204eafb50, type: 3}
+    - target: {fileID: 4326395902955926241, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: portrait.Array.data[2]
+      value: 
+      objectReference: {fileID: 21300000, guid: 59a2260e5d1057249a10b4251929cba7, type: 3}
+    - target: {fileID: 4326395902955926241, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: portrait.Array.data[3]
+      value: 
+      objectReference: {fileID: 21300000, guid: 42436df419cdf7b49af4545204eafb50, type: 3}
+    - target: {fileID: 4326395902955926241, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: dialogueWords.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326395902955926241, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: dialogueWords.Array.data[0]
+      value: Im Going to School now
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326395902955926241, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: dialogueWords.Array.data[1]
+      value: Alright, have fun there
+      objectReference: {fileID: 0}
+    - target: {fileID: 4326395902955926241, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: dialogueWords.Array.data[2]
+      value: You too dad
+      objectReference: {fileID: 0}
+    - target: {fileID: 6088341852422763697, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: speaker.Array.size
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 6088341852422763697, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: portrait.Array.size
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 6088341852422763697, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: speaker.Array.data[0]
+      value: Mbah Mijan
+      objectReference: {fileID: 0}
+    - target: {fileID: 6088341852422763697, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: speaker.Array.data[1]
+      value: Joko
+      objectReference: {fileID: 0}
+    - target: {fileID: 6088341852422763697, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: speaker.Array.data[2]
+      value: Mbah Mijan
+      objectReference: {fileID: 0}
+    - target: {fileID: 6088341852422763697, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: speaker.Array.data[3]
+      value: Joko
+      objectReference: {fileID: 0}
+    - target: {fileID: 6088341852422763697, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: speaker.Array.data[4]
+      value: Joko
+      objectReference: {fileID: 0}
+    - target: {fileID: 6088341852422763697, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: speaker.Array.data[5]
+      value: Mbah Mijan
+      objectReference: {fileID: 0}
+    - target: {fileID: 6088341852422763697, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: speaker.Array.data[6]
+      value: Mbah Mijan
+      objectReference: {fileID: 0}
+    - target: {fileID: 6088341852422763697, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: speaker.Array.data[7]
+      value: Joko
+      objectReference: {fileID: 0}
+    - target: {fileID: 6088341852422763697, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: speaker.Array.data[8]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6088341852422763697, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: speaker.Array.data[9]
+      value: Mbah Mijan
+      objectReference: {fileID: 0}
+    - target: {fileID: 6088341852422763697, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: portrait.Array.data[0]
+      value: 
+      objectReference: {fileID: 21300000, guid: 42436df419cdf7b49af4545204eafb50, type: 3}
+    - target: {fileID: 6088341852422763697, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: portrait.Array.data[1]
+      value: 
+      objectReference: {fileID: 21300000, guid: 59a2260e5d1057249a10b4251929cba7, type: 3}
+    - target: {fileID: 6088341852422763697, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: portrait.Array.data[2]
+      value: 
+      objectReference: {fileID: 21300000, guid: 42436df419cdf7b49af4545204eafb50, type: 3}
+    - target: {fileID: 6088341852422763697, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: portrait.Array.data[3]
+      value: 
+      objectReference: {fileID: 21300000, guid: 59a2260e5d1057249a10b4251929cba7, type: 3}
+    - target: {fileID: 6088341852422763697, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: portrait.Array.data[4]
+      value: 
+      objectReference: {fileID: 21300000, guid: 59a2260e5d1057249a10b4251929cba7, type: 3}
+    - target: {fileID: 6088341852422763697, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: portrait.Array.data[5]
+      value: 
+      objectReference: {fileID: 21300000, guid: 42436df419cdf7b49af4545204eafb50, type: 3}
+    - target: {fileID: 6088341852422763697, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: portrait.Array.data[6]
+      value: 
+      objectReference: {fileID: 21300000, guid: 42436df419cdf7b49af4545204eafb50, type: 3}
+    - target: {fileID: 6088341852422763697, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: portrait.Array.data[7]
+      value: 
+      objectReference: {fileID: 21300000, guid: 59a2260e5d1057249a10b4251929cba7, type: 3}
+    - target: {fileID: 6088341852422763697, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: portrait.Array.data[8]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6088341852422763697, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: portrait.Array.data[9]
+      value: 
+      objectReference: {fileID: 21300000, guid: 42436df419cdf7b49af4545204eafb50, type: 3}
+    - target: {fileID: 6088341852422763697, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: speaker.Array.data[10]
+      value: Mbah Mijan
+      objectReference: {fileID: 0}
+    - target: {fileID: 6088341852422763697, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: speaker.Array.data[11]
+      value: Joko
+      objectReference: {fileID: 0}
+    - target: {fileID: 6088341852422763697, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: speaker.Array.data[12]
+      value: Mbah Mijan
+      objectReference: {fileID: 0}
+    - target: {fileID: 6088341852422763697, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: portrait.Array.data[10]
+      value: 
+      objectReference: {fileID: 21300000, guid: 42436df419cdf7b49af4545204eafb50, type: 3}
+    - target: {fileID: 6088341852422763697, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: portrait.Array.data[11]
+      value: 
+      objectReference: {fileID: 21300000, guid: 59a2260e5d1057249a10b4251929cba7, type: 3}
+    - target: {fileID: 6088341852422763697, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: portrait.Array.data[12]
+      value: 
+      objectReference: {fileID: 21300000, guid: 42436df419cdf7b49af4545204eafb50, type: 3}
+    - target: {fileID: 6088341852422763697, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: dialogueWords.Array.size
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 6088341852422763697, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: dialogueWords.Array.data[0]
+      value: How's School son?
+      objectReference: {fileID: 0}
+    - target: {fileID: 6088341852422763697, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: dialogueWords.Array.data[1]
+      value: I like it, but... i'm too weak, people there bullied me just because
+        i dont born with ghost
+      objectReference: {fileID: 0}
+    - target: {fileID: 6088341852422763697, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: dialogueWords.Array.data[2]
+      value: Oh dear, should i talk to your principal
+      objectReference: {fileID: 0}
+    - target: {fileID: 6088341852422763697, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: dialogueWords.Array.data[3]
+      value: NO, no, dont Dad, just... Help Me Get Stronger
+      objectReference: {fileID: 0}
+    - target: {fileID: 6088341852422763697, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: dialogueWords.Array.data[4]
+      value: I'll do anything just to become stronger
+      objectReference: {fileID: 0}
+    - target: {fileID: 6088341852422763697, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: dialogueWords.Array.data[5]
+      value: Joko...
+      objectReference: {fileID: 0}
+    - target: {fileID: 6088341852422763697, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: dialogueWords.Array.data[6]
+      value: Wait, I think i know the solution, but i don't know if it works cause...
+        no one ever tried it
+      objectReference: {fileID: 0}
+    - target: {fileID: 6088341852422763697, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: dialogueWords.Array.data[7]
+      value: Just Tell Me dad, Ill do anything
+      objectReference: {fileID: 0}
+    - target: {fileID: 6088341852422763697, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: dialogueWords.Array.data[8]
+      value: '*Goes to the back of the house and bring a Kris'
+      objectReference: {fileID: 0}
+    - target: {fileID: 6088341852422763697, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: dialogueWords.Array.data[9]
+      value: Use this, its a Cursed Relic, that make every shaman who touch it lose
+        its power
+      objectReference: {fileID: 0}
+    - target: {fileID: 6088341852422763697, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: dialogueWords.Array.data[10]
+      value: I Found this Right Beside your cradle when i found you, the moment i
+        take it, My Ghost start trembling somehow
+      objectReference: {fileID: 0}
+    - target: {fileID: 6088341852422763697, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: dialogueWords.Array.data[11]
+      value: Will this really work, Dad?
+      objectReference: {fileID: 0}
+    - target: {fileID: 6088341852422763697, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: dialogueWords.Array.data[12]
+      value: I Don't know, but this is your only choice
+      objectReference: {fileID: 0}
+    - target: {fileID: 7344015654274189105, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
+      propertyPath: m_Name
+      value: DialogueHandlerBeforeSchool Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 658a4333b1f1f994a987adf276382bbf, type: 3}
